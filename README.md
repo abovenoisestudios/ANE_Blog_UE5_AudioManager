@@ -1,7 +1,7 @@
 # How to Create an Audio Manager in Unreal Engine
 ### Game Audio Blog - Above Noise Studios
-English: [https://abovenoisestudios.com/blogeng/audiosubsystemue5eng](https://abovenoisestudios.com/blogeng/metasquartzverticaleng)\
-Spanish: [https://abovenoisestudios.com/blogespanol/audiosubsystemue5esp](https://abovenoisestudios.com/blogespanol/metasquartzverticalesp)\
+English: [https://abovenoisestudios.com/blogeng/audiosubsystemue5eng](https://abovenoisestudios.com/blogeng/audiosubsystemue5eng)\
+Spanish: [https://abovenoisestudios.com/blogespanol/audiosubsystemue5esp](https://abovenoisestudios.com/blogespanol/audiosubsystemue5esp)\
 \
 Created By: Horacio Valdivieso\
 [horacio@abovenoisestudios.com](mailto:horacio@abovenoisestudios.com)\
